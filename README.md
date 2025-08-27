@@ -33,14 +33,17 @@ Run the script:
 python iris_knn_classifier.py
 
 📂 Files
+
 iris_data.csv: Dataset
 iris_knn_classifier.py: Model training and evaluation
 README.md: Project overview
 
 📌 Highlights
+
 Simple and interpretable classification model
 Hyperparameter tuning for optimal performance
 Visualizations of decision boundaries and confusion matrix
 
 📜 License
+
 This project is open-source under the MIT License.
